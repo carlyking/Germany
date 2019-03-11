@@ -1,2 +1,2 @@
 # Germany
-Thesis Project (Neural Basis of Picture Perception)
+Thesis Project (Neural Basis of Picture Perception);
